@@ -1,0 +1,17 @@
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\bin\Debug\net6.0-windows\OefMenus.exe
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\bin\Debug\net6.0-windows\OefMenus.deps.json
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\bin\Debug\net6.0-windows\OefMenus.runtimeconfig.json
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\bin\Debug\net6.0-windows\OefMenus.dll
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\bin\Debug\net6.0-windows\ref\OefMenus.dll
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\bin\Debug\net6.0-windows\OefMenus.pdb
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.csproj.AssemblyReference.cache
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.Form1.resources
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.csproj.GenerateResource.cache
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.AssemblyInfoInputs.cache
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.AssemblyInfo.cs
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.csproj.CoreCompileInputs.cache
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.dll
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\ref\OefMenus.dll
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.pdb
+C:\Users\jaimy\source\repos\OefMenus\OefMenus\obj\Debug\net6.0-windows\OefMenus.genruntimeconfig.cache
